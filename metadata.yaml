@@ -1,0 +1,40 @@
+_repo: Flower-Fruit-and-Thorn-Pieces-Kuhschnappel._36164
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ewing, A. (Alexander)
+    alias: Ewing, Alexander
+    birthdate: 1830
+    deathdate: 1895
+    gutenberg_agent_id: '38110'
+    url: http://www.gutenberg.org/2009/agents/38110
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jean Paul
+    aliases:
+    - Richter, Johann Paul Friedrich
+    - Richter, Jean Paul Friedrich
+    - Paul, Jean
+    birthdate: 1763
+    deathdate: 1825
+    gutenberg_agent_id: '32901'
+    url: http://www.gutenberg.org/2009/agents/32901
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Paul
+description: ''
+gutenberg_issued: '2011-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+title: "Flower, Fruit, and Thorn Pieces;\r\nor, the Wedded Life, Death, and Marriage\
+  \ of Firmian Stanislaus Siebenkaes, Parish Advocate in the Burgh of Kuhschnappel."
+url: http://www.gutenberg.org/ebooks/36164
